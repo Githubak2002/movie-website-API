@@ -1,8 +1,17 @@
-# React + Vite
+# Live at - https://ak-movie-api.netlify.app
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learned lot about API, data fetching and displaying all content using API.
 
-Currently, two official plugins are available:
+React Router danamic routing and much more...
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Created much familiar UI design using React js and Tailwind CSS.
+
+For better experience try large screen devices like laptop.
+
+# The landing page
+
+<img width="1102" alt="movie-api" src="https://github.com/Githubak2002/movie-website-API/assets/109411443/c01016f7-0ebc-48c4-a75a-aae0b34bd745">
+
+
+
+
