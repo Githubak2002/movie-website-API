@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Maven+Pro&family=REM:wght@900&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Maven Pro', sans-serif;
+  /* font-family: 'REM', sans-serif; */
+  color:white;
+}
+html{
+  background-color: black;
+}
+
+.flexCenter{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+/* nav link css */
+.navlinkcss:hover{
+  color: rgba(137, 43, 226, 0.917);
+  border-bottom: 1.3px solid rgba(137, 43, 226, 0.888);
+}
+
+
+/* Home page */
+.moviefont{
+  font-family: 'REM', sans-serif;
+}
+.box{
+  /* box-shadow: 0px -5px 10px black; */
+  box-shadow:black 0px 30px 60px inset,black 2px 30px 70px inset,black 2px 35px 70px inset;
+
+  /* box-shadow: rgba(255, 255, 255, 0.25) 0px 30px 60px -12px inset, rgba(0, 0, 0, 0.3) 0px 18px 36px -18px inset; */
+}
+
+/* MovieCard css */
+
+.cardcss{
+  opacity: 0;
+}
+
+.cardcss:hover{
+  opacity: 1;
+}
+
+.zind{
+  z-index: 2000;
+}
